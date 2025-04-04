@@ -88,6 +88,8 @@ The app will be live at:
 2. Paste an email text into the input box.
 3. Click "Check" and see if it's __Spam__ or __Not Spam__!
 
+<img width="413" alt="image" src="https://github.com/user-attachments/assets/a21cd1ba-be8b-43df-b985-d2b772e62048" />
+
 
 ### Model Performance
 

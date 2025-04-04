@@ -49,7 +49,7 @@ git clone https://github.com/Gracia243/spam_email_detector.git
 cd spam_email_detector/backend
 ```
 
-### 2. Download the Dataset
+#### 2. Download the Dataset
 
 Since GitHub does not support large files (over 22MB), you need to **download the dataset manually** from Kaggle.
 

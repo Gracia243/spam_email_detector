@@ -4,7 +4,6 @@ __A machine learning project to classify emails as spam or not spam using Python
 
 ### Dataset Source
 
-## Dataset Source
 
 This project uses the **Email Spam Classification Dataset** from Kaggle, originally compiled from the **2007 TREC Public Spam Corpus**.
 
